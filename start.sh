@@ -1,0 +1,9 @@
+docker start noderedcontainer1
+docker start noderedcontainer2
+docker start noderedcontainer3
+docker start noderedcontainer4
+docker start noderedcontainer5
+docker start noderedcontainer6
+docker start noderedcontainer7
+docker start noderedcontainer8
+docker start noderedcontainer9

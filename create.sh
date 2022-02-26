@@ -1,9 +1,9 @@
 docker run -d -it -p 18081:1880 -v noderedvolume1:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18082:1880 -v noderedvolume2:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18083:1880 -v noderedvolume3:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18084:1880 -v noderedvolume4:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18085:1880 -v noderedvolume5:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18086:1880 -v noderedvolume6:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18087:1880 -v noderedvolume7:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18088:1880 -v noderedvolume8:/data --name noderedcontainer1 nodered/node-red
-docker run -d -it -p 18089:1880 -v noderedvolume9:/data --name noderedcontainer1 nodered/node-red
+docker run -d -it -p 18082:1880 -v noderedvolume2:/data --name noderedcontainer2 nodered/node-red
+docker run -d -it -p 18083:1880 -v noderedvolume3:/data --name noderedcontainer3 nodered/node-red
+docker run -d -it -p 18084:1880 -v noderedvolume4:/data --name noderedcontainer4 nodered/node-red
+docker run -d -it -p 18085:1880 -v noderedvolume5:/data --name noderedcontainer5 nodered/node-red
+docker run -d -it -p 18086:1880 -v noderedvolume6:/data --name noderedcontainer6 nodered/node-red
+docker run -d -it -p 18087:1880 -v noderedvolume7:/data --name noderedcontainer7 nodered/node-red
+docker run -d -it -p 18088:1880 -v noderedvolume8:/data --name noderedcontainer8 nodered/node-red
+docker run -d -it -p 18089:1880 -v noderedvolume9:/data --name noderedcontainer9 nodered/node-red

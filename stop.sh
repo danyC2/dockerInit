@@ -1,0 +1,9 @@
+docker stop noderedcontainer1
+docker stop noderedcontainer2
+docker stop noderedcontainer3
+docker stop noderedcontainer4
+docker stop noderedcontainer5
+docker stop noderedcontainer6
+docker stop noderedcontainer7
+docker stop noderedcontainer8
+docker stop noderedcontainer9
